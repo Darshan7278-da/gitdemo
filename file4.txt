@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+this is file4 topic
+=======
 this is a file4 topic
+>>>>>>> feature
